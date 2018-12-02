@@ -72,3 +72,7 @@ Most Importants mechanisms
 * Unload cargo
 * Drop cargo
 
+# Steps:
+* Drop Cargo Slider
+* Drop Cargo Slider functionality
+* Drop Cargo Animation
