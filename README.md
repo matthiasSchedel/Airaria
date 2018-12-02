@@ -3,42 +3,47 @@ Made for Ludum Dare 43 - Theme: Sacrifices must be made
 
 
 
-Description:
+#Description:
 
-Scenario:
+##Scenario:
 You are a captain of an airship that has to transport goods between different air harbours. On your journey you may encounter difficult situations, in which you may have to drop some ballast in order to escape. Because of strong winds or air pirates.
 
 Good luck sailor!!
 
 
-Controls:
+##Controls:
 
 * The zeppelin can be controled by a steering weehl and a climbing meter (0 = keep height, <0 = go down, >0 = go up)
 * First version only with WASD and SPACE to drop weight
 
 
+
 #####################
-TODO
+
+#TODO
 
 
 
-Todo Modelling:
+##Modelling:
 
 * Zeppelin Model
 * Harbour
 * Clouds
+* Cargo
+* 
 
 
-Sounds:
+##Sounds:
 
 * Air blowing - strong wind
 * Air blowing - light wind
 * Zepelling steering
 * Arriving in harbour
 * Leaving harbour 
+* Drop cargo
 
 
-Coding:
+##Coding:
 
 Most Importants mechanisms
 
@@ -61,4 +66,9 @@ Most Importants mechanisms
 * Life of zeppelin?
 * Do we need fuel?
 * 
+
+## Cargo
+* Load cargo
+* Unload cargo
+* Drop cargo
 

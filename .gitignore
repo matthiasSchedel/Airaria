@@ -34,3 +34,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+*.DS_STORE
+*.app
+*/IOS01
+*/Android01
